@@ -3,7 +3,7 @@
 webProperties.learn = {
   attribute: 'content',
   rules: getRules(),
-  selector: `meta[name="original_ref_skeleton_git_url"]`,
+  selector: `meta[name="original_content_git_url"]`,
   customize,
   getAlias,
   getAuthor,
